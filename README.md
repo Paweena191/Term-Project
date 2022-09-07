@@ -37,3 +37,14 @@
 ![program](https://github.com/Paweena191/Term-Project/blob/main/display.png)
 ![program](https://github.com/Paweena191/Term-Project/blob/main/display1.png)
 ![program](https://github.com/Paweena191/Term-Project/blob/main/display2.png)
+
+## ที่ปรึกษาโปรเจค
+อ.ดร. บูคอรี ซาเหาะ
+### สมาชิกในทีม
+- 63106058 นางสาวปวีณา ไชยทอง
+- 63107569 นายฟาร์ยัซ หีมบู
+- 63109219 นางสาววรนุช พรหมทองนุ่น
+- 63116818 นายปัญญพัฒน์ เบญจมนัสกุล
+
+### มหาวิทยาลัยวลัยลักษณ์
+### หลักสูตรนวัตกรรมสารสนเทศทางการแพทย์ สำนักวิชาสารสนเทศศาสตร์
