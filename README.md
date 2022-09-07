@@ -32,3 +32,4 @@
 ## ผลลัพธ์
 ### Web Application
 ![program](https://github.com/Paweena191/Term-Project/blob/main/display.png)
+![program](https://github.com/Paweena191/Term-Project/blob/main/display1.png)
