@@ -5,7 +5,10 @@
 ![program](https://github.com/Paweena191/Term-Project/blob/main/IMG_7086.jpg)
 
 ## คุณสมบัติ
-- 
+- มีการประมวลผลแบบเรียลไทม์
+- มี Web Application ที่เเสดงผลแบบเรียลไทม์
+- สามารถตรวจสอบเเละติดตามได้แบบเรียลไทม์
+- สามารถวินิจฉัยได้แบบเรียลไทม์
 
 ## ส่วนประกอบ
 - Node Micro-Controller Unit: MCU node
